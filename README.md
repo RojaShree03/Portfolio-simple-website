@@ -16,7 +16,7 @@ A simple personal portfolio website created using **HTML and CSS**.
 
 You can view the live portfolio website here:
 
-**(https://rojashree03.github.io/Portfolio-simple-website/)(YOUR_GITHUB_PAGES_LINK)**
+**(https://rojashree03.github.io/Portfolio-simple-website/)**
 
 ### Purpose
 
