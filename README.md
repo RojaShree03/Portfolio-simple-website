@@ -1,17 +1,25 @@
 # Personal Portfolio Website
 
-A simple and responsive personal portfolio website created using **HTML and CSS**.
+A simple personal portfolio website created using **HTML and CSS**.
 
-This project includes:
+### Pages
 
-* 🏠 Home Page – A short introduction and basic profile information.
-* 📩 Contact Page – A simple contact section for getting in touch.
+* 🏠 Home
+* 📩 Contact
 
 ### Technologies Used
 
 * HTML5
 * CSS3
 
+### How to View
+
+You can view the live portfolio website here:
+
+**[View My Portfolio](YOUR_GITHUB_PAGES_LINK)**
+
 ### Purpose
 
-This project was created to practice the fundamentals of **HTML structure, CSS styling, page navigation, and basic responsive web design**.
+This project was created to practice HTML structure, CSS styling, page navigation, and basic web design.
+
+Thank you for visiting my portfolio website!
